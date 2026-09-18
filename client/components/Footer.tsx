@@ -46,10 +46,6 @@ export default function Footer() {
               </p>
 
               <p className="cursor-pointer transition hover:text-cyan-400">
-                Premium
-              </p>
-
-              <p className="cursor-pointer transition hover:text-cyan-400">
                 <a href="#features">Features</a>
               </p>
             </div>
@@ -89,8 +85,8 @@ export default function Footer() {
             © 2026 Chatgle. All rights reserved.
           </p>
 
-          <p>
-            Built for conversations worldwide 🌎
+          <p className="text-gray-400 font-medium">
+            Build with love abhay ❤️
           </p>
 
         </div>
